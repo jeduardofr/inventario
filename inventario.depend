@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1590195772 source:c:\users\juan_\documents\archivos de la escuela\ing de software\proyecto\inventario\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<vector>
+	<conio.h>
+	<iostream>
+	<fstream>
+	"lista.h"
+	"Seguridad.h"
+	<sstream>
+
+1590193652 c:\users\juan_\documents\archivos de la escuela\ing de software\proyecto\inventario\lista.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<conio.h>
+	<iostream>
+	<vector>
+	<fstream>
+	"espacio.h"
+	"seguridad.h"
+
+1590043311 c:\users\juan_\documents\archivos de la escuela\ing de software\proyecto\inventario\espacio.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<vector>
+	<conio.h>
+	<iostream>
+	<fstream>
+
+1590195813 source:c:\users\juan_\documents\archivos de la escuela\ing de software\proyecto\inventario\lista.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<conio.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"lista.h"
+
+1590135471 source:c:\users\juan_\documents\archivos de la escuela\ing de software\proyecto\inventario\espacio.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<conio.h>
+	<iostream>
+	<fstream>
+	"espacio.h"
+
+1590172570 c:\users\juan_\documents\archivos de la escuela\ing de software\proyecto\inventario\seguridad.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<conio.h>
+	<iostream>
+	<vector>
+	<fstream>
+
+1590135471 source:c:\users\juan_\documents\archivos de la escuela\ing de software\proyecto\inventario\seguridad.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<conio.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"seguridad.h"
+
+1590135472 source:c:\users\juan_\desktop\oipide codigo\oipide\espacio.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<conio.h>
+	<iostream>
+	<fstream>
+	"espacio.h"
+
+1590043312 c:\users\juan_\desktop\oipide codigo\oipide\espacio.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<vector>
+	<conio.h>
+	<iostream>
+	<fstream>
+
+1590196762 source:c:\users\juan_\desktop\oipide codigo\oipide\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<vector>
+	<conio.h>
+	<iostream>
+	<fstream>
+	"lista.h"
+	"Seguridad.h"
+	<sstream>
+
+1590193654 c:\users\juan_\desktop\oipide codigo\oipide\lista.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<conio.h>
+	<iostream>
+	<vector>
+	<fstream>
+	"espacio.h"
+	"seguridad.h"
+
+1590172572 c:\users\juan_\desktop\oipide codigo\oipide\seguridad.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<conio.h>
+	<iostream>
+	<vector>
+	<fstream>
+
+1590135472 source:c:\users\juan_\desktop\oipide codigo\oipide\seguridad.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<conio.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"seguridad.h"
+
