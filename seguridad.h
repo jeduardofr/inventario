@@ -12,7 +12,16 @@
 
 using namespace std;
 
-class Seguridad
+class BaseSeguridad
+{
+  virtual void iniciar() = 0;
+  virtual void setUser(string) = 0;
+  virtual void setContra(string) = 0;
+  virtual string getUser() = 0;
+  virtual string getContra() = 0;
+};
+
+class Seguridad : public BaseSeguridad
 {
 private:
 public:
